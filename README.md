@@ -1,6 +1,7 @@
 # Speed-detection
 Our project has 3 modules: 
-Module 1: Traffic Light Control 
+
+Traffic Light Control 
 
 Computer vision can be used for traffic violation control by analyzing video footage of vehicles 
 to detect when they are breaking traffic laws. For example, computer vision algorithms can be 
